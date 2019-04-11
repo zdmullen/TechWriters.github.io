@@ -1,4 +1,4 @@
-# How to make a peanut butter and Jelly sandwich
+# How to make a Peanut Butter and Jelly sandwich
 
 ## Prerequisites
 
