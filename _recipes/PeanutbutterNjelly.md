@@ -13,10 +13,10 @@ Here you will learn to make one of the staples of American cuisine, the [PB&J](h
 
 **Follow these steps:**
 
-1. Scoop peanut butter on the knife. 
+1. Scoop peanut butter with the knife. 
 2. Spread the peanut butter on one piece of bread.
-3. Clean the knife in the running water.
-4. Scoop the jelly on the clean knife.
+3. Clean the knife in running water.
+4. Scoop the jelly with the clean knife.
 5. Spread the jelly on the other piece of bread.
 6. Put the two slices of bread together.
 
