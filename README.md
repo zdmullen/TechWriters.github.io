@@ -10,7 +10,7 @@
 
 ### Diagram of typical workflow
 
-[Workflow in Git](/assets/workflow.png)
+[Workflow in Git](/_assets/Git Flow.png)
 
 Possible collaborators:
 1. rm667258
