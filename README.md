@@ -10,7 +10,7 @@
 
 ### Diagram of typical workflow
 
-![](https://github.com/zdmullen/TechWriters.github.io/_assets/GitFlow.png)
+![ ](./_assets/GitFlow.png)
 
 Possible collaborators:
 1. rm667258
