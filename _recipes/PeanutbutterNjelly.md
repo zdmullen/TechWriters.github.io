@@ -1,6 +1,6 @@
 # How to make a Peanut Butter and Jelly sandwich
 
-Here you will learn to make one of the staples of American cuisine, the PB&J. 
+Here you will learn to make one of the staples of American cuisine, the [PB&J](https://www.nationalpeanutboard.org/news/who-invented-the-peanut-butter-and-jelly-sandwich.htm). 
 
 ## Prerequisites
 
