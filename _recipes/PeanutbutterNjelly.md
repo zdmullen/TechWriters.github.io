@@ -4,6 +4,7 @@ Here you will learn to make one of the staples of American cuisine, the [PB&J](h
 
 ## Prerequisites
 
+- cutting board
 - knife (non-serrated)
 - jar of peanut butter
 - jar of jelly
