@@ -1,2 +1,14 @@
+#Nachos and Cheese
 
-Put cheese and nachos on a plate. Cook 4 min in the microwave.
+1. Put nachos on a plate.
+2. Grate some cheese and put it on top of the nachos.
+3. Throw anything else you find lying around your kitchen on the plate too, for example
+    * salsa
+    * herbs
+    * spices
+    * avocados
+    * cuttlefish
+    * witches
+4. Put the plate in the oven or grill and heat it until the cheese melts.
+5. Remove the plate from the oven using a cloth or oven gloves
+6. Serve
