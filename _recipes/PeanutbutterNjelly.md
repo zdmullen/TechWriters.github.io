@@ -4,10 +4,9 @@ Here you will learn to make one of the staples of American cuisine, the [PB&J](h
 
 ## Prerequisites
 
-- cutting board
 - knife (non-serrated)
 - jar of peanut butter
-- jar of jelly
+- jar of jelly (also known as [jam](https://www.britannica.com/story/whats-the-difference-between-jam-jelly-and-preserves))
 - two slices of bread
 - running water
 
