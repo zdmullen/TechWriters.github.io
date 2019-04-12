@@ -1,5 +1,7 @@
 # How to make a Peanut Butter and Jelly sandwich
 
+Here you will learn to make one of the staples of American cuisine, the PB&J. 
+
 ## Prerequisites
 
 - knife (non-serrated)
