@@ -9,6 +9,11 @@
     * avocados
     * cuttlefish
     * witches
+    * UKIP MEP's
+    * Daily Mail columnists
+    * finely chopped leek greens
+    * An old priest
+    * A young priest
 4. Put the plate in the oven or grill and heat it until the cheese melts.
 5. Remove the plate from the oven using a cloth or oven gloves
 6. Serve
